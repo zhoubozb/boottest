@@ -7,7 +7,7 @@ public class Test {
     private static Properties pro ;
     public static void  main(String [] args){
         Test.readprop();
-        String port = pro.getProperty("server.port");
+        String port = pro.getProperty("servmmmmmmmmmer.port");
         System.out.println("qmmmmmmmmmmmq"+port);
     }
 
