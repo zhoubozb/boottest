@@ -8,7 +8,7 @@ public class Test {
     public static void  main(String [] args){
         Test.readprop();
         String port = pro.getProperty("server.port");
-        System.out.println("qq"+port);
+        System.out.println("qmmmmmmmmmmmq"+port);
     }
 
     public static void readprop(){
